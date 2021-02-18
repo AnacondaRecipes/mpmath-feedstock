@@ -16,6 +16,7 @@ build:
 requirements:
   host:
     - python
+    - setuptools
   run:
     - python
     #- gmpy2       # [(not win) or py35]
