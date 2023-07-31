@@ -36,17 +36,16 @@ test:
     - pip
 
 about:
-  home: http://mpmath.org
-  license: BSD 3-Clause
+  home: https://mpmath.org
+  license: BSD-3-Clause
   license_family: BSD
   license_file: LICENSE
   summary: Python library for arbitrary-precision floating-point arithmetic
   description: |
     mpmath is a free Python library for real and complex floating-point
     arithmetic with arbitrary precision.
-  doc_url: http://mpmath.org/doc/current/
-  dev_url: https://github.com/fredrik-johansson/mpmath
-  doc_source_url: https://github.com/fredrik-johansson/mpmath/blob/master/doc/source/index.txt
+  doc_url: https://mpmath.org/doc/current/
+  dev_url: https://github.com/mpmath/mpmath
 
 extra:
   recipe-maintainers:
